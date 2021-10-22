@@ -23,7 +23,7 @@ namespace test_gitignore
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show("808");
+            MessageBox.Show("808 (C)");
         }
     }
 }
